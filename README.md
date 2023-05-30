@@ -8,3 +8,11 @@ Fast & Furious (also known as The Fast and the Furious) is a media franchise cen
 # Fast & Furious Chapter
 - The Fast and the Furious (2001)
 - 2 Fast 2 Furious (2003)
+- Fast & Furious (2009)
+- The Fast and the Furious: Tokyo Drift (2006)
+- Fast Five (2011)
+- Fast & Furious 6 (2013)
+- Furious 7 (2015)
+- The Fate of the Furious (2017)
+- F9: The Fast Saga (2021)
+- Fast X (2023)
