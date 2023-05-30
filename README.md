@@ -6,3 +6,5 @@ My first repository
 
 Fast & Furious (also known as The Fast and the Furious) is a media franchise centered on a series of action films that are largely concerned with street racing, heists, spies, and family. The franchise also includes short films, a television series, toys, video games, live shows, and theme park attractions.
 # Fast & Furious Chapter
+- The Fast and the Furious (2001)
+- 2 Fast 2 Furious (2003)
